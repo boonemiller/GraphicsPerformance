@@ -1,1 +1,5 @@
 GraphicsPerformance/glm/* linguist-vendored
+GraphicsPerformance/util/* linguist-vendored
+GraphicsPerformance/test/* linguist-vendored
+GraphicsPerformance/doc/* linguist-vendored
+GraphicsPerformance/cmake/* linguist-vendored
